@@ -8,7 +8,7 @@ This is the source code repository for clock application in Flutter. Challenges 
 
 For full source code contact me [here](mailto:krunalelance@gmail.com)
 
-![Full Application Video](assets/full.mov)
+![Gif](https://github.com/kttailor/flutter_clock/blob/master/assets/full.gif)
 
 # ☁️ Credits
 
