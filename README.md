@@ -8,6 +8,8 @@ This is the source code repository for clock application in Flutter. Challenges 
 
 For full source code contact me [here](mailto:krunalelance@gmail.com)
 
+![Full Application Video](assets/full.mov)
+
 # ☁️ Credits
 
 - Designs: [Uplabs](https://www.uplabs.com/posts/minimalist-clock-app-d394ed74-176a-4259-9c72-7c333654c8cc)
